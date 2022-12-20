@@ -1,5 +1,5 @@
 ﻿using System; 
-namespace _Alaa;  
+namespace zeinab;  
 public class Person{
     private string name1;
     public string Name{
